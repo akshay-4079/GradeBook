@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{503B2E62-1518-4C1C-A58C-724761233265}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBook/GradeBook.cs">
+    <Files>
+      <File FileName="Grades.Tests/Types/TypeTest.cs" Line="42" Column="33" />
+      <File FileName="GradeBook/GradeBook.cs" Line="59" Column="17" />
+      <File FileName="GradeBook/Program.cs" Line="35" Column="31" />
+      <File FileName="Grades.Tests/Types/TypeTest.cs" Line="22" Column="12" />
+      <File FileName="GradeBook/GradeStatistics.cs" Line="46" Column="7" />
+      <File FileName="GradeBook/NameChangedEventArgs.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Grades" expanded="True">
+            <Node name="Grades.Tests" expanded="True">
+              <Node name="Grades" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="GradeBookTest" expanded="True">
+                    <Node name="ComputeLowetGrade" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/akshay.srikumar/Projects/GradeBook/GradeBook/Rrogram.cs" relfile="GradeBook/Rrogram.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

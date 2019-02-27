@@ -1,0 +1,12 @@
+AKSHAY
+With Upgradation
+Subject 1:32
+Subject 2:34
+Subject 3:45
+Subject 4:56
+Subject 5:77
+Subject 6:43
+Subject 7:32
+Average : 47.83333
+Highest : 77
+Lowest : 32

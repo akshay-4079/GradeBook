@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DF7931B7-E193-4226-A9FD-1AEF3891A177}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GradeBook.cs">
+    <Files>
+      <File FileName="NameChangedEventArgs.cs" Line="1" Column="1" />
+      <File FileName="GradeStatistics.cs" Line="20" Column="16" />
+      <File FileName="grades.txt" Line="11" Column="1" />
+      <File FileName="NameChangedDelegate.cs" Line="1" Column="1" />
+      <File FileName="GradeBook.cs" Line="44" Column="59" />
+      <File FileName="Gradetracker.cs" Line="91" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

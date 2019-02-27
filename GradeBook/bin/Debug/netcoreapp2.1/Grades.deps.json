@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "7f7993c9eceba3005d902ba48d40315e4f3d2353"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Grades/1.0.0": {
+        "dependencies": {
+          "Speech.Synthesis.Core": "0.0.2",
+          "Speech.Synthesis.Microsoft": "0.0.1",
+          "bootstrap": "4.3.1"
+        },
+        "runtime": {
+          "Grades.dll": {}
+        }
+      },
+      "bootstrap/4.3.1": {
+        "dependencies": {
+          "jQuery": "3.0.0",
+          "popper.js": "1.14.0"
+        }
+      },
+      "jQuery/3.0.0": {},
+      "popper.js/1.14.0": {},
+      "Speech.Synthesis.Core/0.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Speech.Synthesis.Core.dll": {
+            "assemblyVersion": "0.0.2.0",
+            "fileVersion": "0.0.2.0"
+          }
+        }
+      },
+      "Speech.Synthesis.Microsoft/0.0.1": {
+        "dependencies": {
+          "Speech.Synthesis.Core": "0.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Speech.Synthesis.Microsoft.dll": {
+            "assemblyVersion": "0.0.1.0",
+            "fileVersion": "0.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fdrOK8EtcB89pVDGfuIWkydpjJBI2FmnC3U0S0mIcogN7kOdC31Pp1xmAyVJhEVvD+BdWvL4+p0b5prKhkfVLg==",
+      "path": "bootstrap/4.3.1",
+      "hashPath": "bootstrap.4.3.1.nupkg.sha512"
+    },
+    "jQuery/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FXANjZia/vux9/ObNiPwh2zNWuzcgHMKXia1OQrviuf0OKPBWB2TBIVAICgtObuzEW+XLyaBEoVuOUlMXy0kNA==",
+      "path": "jquery/3.0.0",
+      "hashPath": "jquery.3.0.0.nupkg.sha512"
+    },
+    "popper.js/1.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oamtAIKoHa/s45chV0TozJhrwTRUBURUVjFl1wHw1MrCplFDxmK41CMrMDQx1Eq08n7oEzqSHEPPWCdA6Mhb1w==",
+      "path": "popper.js/1.14.0",
+      "hashPath": "popper.js.1.14.0.nupkg.sha512"
+    },
+    "Speech.Synthesis.Core/0.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eVnF/I3SVkO30D8tCqkYxmaIvDBf/nIu+a8OA1wFPR8QULsUMKFmix0MMxWxd/65rVooJd+XOW9m7eElx01SIQ==",
+      "path": "speech.synthesis.core/0.0.2",
+      "hashPath": "speech.synthesis.core.0.0.2.nupkg.sha512"
+    },
+    "Speech.Synthesis.Microsoft/0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+IR0OyTQTq/j01GXbNKcDZRKBsfN+F5Y+Dh+YTg94BwgjB28TgMCehpCJpwxM0inJIEYMrUx6nhxZx+2goZyEA==",
+      "path": "speech.synthesis.microsoft/0.0.1",
+      "hashPath": "speech.synthesis.microsoft.0.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.csprojAssemblyReference.cache
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.csproj.CoreCompileInputs.cache
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.AssemblyInfoInputs.cache
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.AssemblyInfo.cs
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.Tests.deps.json
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.Tests.runtimeconfig.json
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.Tests.runtimeconfig.dev.json
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.Tests.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.Tests.pdb
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/bin/Release/netcoreapp2.1/Grades.pdb
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.csproj.CopyComplete
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.dll
+/Users/akshay.srikumar/Projects/GradeBook/Grades.Tests/obj/Release/netcoreapp2.1/Grades.Tests.pdb
